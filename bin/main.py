@@ -2,13 +2,14 @@
 
 """
     usage:
-        python3 main.py
+        python3 main.py ../data/POU5F1.aln
+        Make sure to be in the BIN directory.
 """
 
 # METADATA VARIABLES
 __author__ = "Orfeas Gkourlias"
-__status__ = "WIP"
-__version__ = "0.1"
+__status__ = "Final"
+__version__ = "1.0"
 
 # IMPORTS
 import sys

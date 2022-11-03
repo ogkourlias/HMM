@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 
-"""
-    usage:
-        python3 main.py
-"""
-
 # METADATA VARIABLES
 __author__ = "Orfeas Gkourlias"
 __status__ = "WIP"
