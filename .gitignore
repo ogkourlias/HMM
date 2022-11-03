@@ -1,2 +1,10 @@
 .idea/*
 bin/__pycache__/
+opdracht.txt
+data/hmm_out.hmm
+data/hmm_out.hmm.h3f
+data/hmm_out.hmm.h3i
+data/hmm_out.hmm.h3m
+data/hmm_out.hmm.h3p
+data/scan.txt
+data/search.txt

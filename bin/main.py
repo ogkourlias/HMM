@@ -12,25 +12,14 @@ __version__ = "0.1"
 
 # IMPORTS
 import sys
-from alignment import alignment
-import hmmer
-
-# CLASSES
-class x():
-    """ Desc """
-
-
-# FUNCTIONS
-def y():
-    """ Desc """
-    return 0
+from hmmer import hmmer
 
 
 # MAIN
 def main(args):
     """ Main function """
-    aln = alignment(sys.argv[1])
-    print(aln)
+    hmmer_inst = hmmer(sys.argv[1])
+    hmmer_inst.hmmer_scan()
     return 0
 
 
